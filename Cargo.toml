@@ -1,7 +1,7 @@
 [package]
 
 name = "embedded-freetype-sys"
-version = "0.1.0"
+version = "0.2.0"
 authors = ["Coeuvre <coeuvre@gmail.com>", "lights0123 <developer@lights0123.com>"]
 keywords = ["freetype", "ffi"]
 description = "Low level binding for FreeType font library for no_std targets"
@@ -11,4 +11,4 @@ repository = "https://github.com/lights0123/embedded-freetype-sys"
 edition = "2018"
 
 [dependencies]
-cty = "0.1.5"
+cty = "0.2.0"
